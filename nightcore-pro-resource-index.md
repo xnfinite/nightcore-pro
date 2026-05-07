@@ -52,5 +52,3 @@ Start here:
 ## Disclosure
 
 Some Nightcore Pro pages may contain affiliate CTAs on the Nightcore Pro site. This index uses canonical public URLs only and does not include raw affiliate links.
-
-Generated: 2026-05-07T19:37:09.428Z
