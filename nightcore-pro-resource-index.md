@@ -22,7 +22,15 @@ Start here:
 - [Creator Newsletter Platform Decision Matrix](https://nightcore-pro.org/go/creator-newsletter-platform-decision-matrix-launch) - A source-backed category matrix for creators deciding whether they need a newsletter-first platform, an all-in-one creator stack, a basic email tool, or advanced CRM automation.
 ## decision-helper
 
-- [Newsletter Platform Picker for Creators](https://nightcore-pro.org/go/newsletter-platform-picker-launch) - Review-only interactive decision-helper draft that recommends beehiiv, Systeme.io, or a compare-both path using source-backed creator-business criteria.
+- [Newsletter Platform Picker for Creators](https://nightcore-pro.org/go/newsletter-platform-picker-launch) - A public decision helper that recommends a newsletter-first, funnel/checkout, or compare-both path using source-backed creator-business criteria.
+## offer-bridge
+
+- [Do You Need a Landing Page, Checkout, and Email Stack Together?](https://nightcore-pro.org/go/landing-page-checkout-email-stack-launch) - Use an all-in-one workflow when the buyer needs a guided path from page to payment to follow-up. Use a simpler path when the real job is only checkout, publishing, or course delivery.
+- [Sell Templates Without Marketplace Confusion](https://nightcore-pro.org/go/sell-templates-without-marketplace-confusion-launch) - Template selling starts with the buyer's use case, delivery promise, examples, updates, and support boundary. Choose marketplace discovery, simple checkout, or owned storefront only after those pieces are clear.
+- [Turn a Newsletter Into a Digital Product Without Skipping Validation](https://nightcore-pro.org/go/turn-newsletter-into-digital-product-launch) - A newsletter can become a product path when repeated reader questions reveal a useful template, guide, checklist, course, or bundle. Build the audience loop first, then add checkout when the offer is specific.
+- [Course Platform or Checkout First?](https://nightcore-pro.org/go/course-platform-or-checkout-first-launch) - Start with the buyer experience: use a course platform when lessons and learning flow are part of the value, and use checkout-first when the product is closer to a file, template, or lightweight resource.
+- [Sell a Digital Download Without Building a Full Storefront](https://nightcore-pro.org/go/sell-digital-download-without-a-storefront-launch) - If you have one clear file, template, guide, or bundle to sell, start with payment, delivery, support, and update workflow before building a full storefront.
+- [Should You Start a Newsletter Before Selling a Digital Product?](https://nightcore-pro.org/go/start-newsletter-before-digital-product-launch) - Start newsletter-first when you need trust, repeated ideas, and audience clarity before building the product. Move to product tools when the offer, buyer, delivery, and selling path are clear.
 ## use-case
 
 - [Checkout vs Storefront Decision Tool](https://nightcore-pro.org/go/checkout-vs-storefront-decision-tool-launch) - A reusable decision table for creators choosing the buying experience before selecting checkout or storefront software.
@@ -39,7 +47,7 @@ Start here:
 - [Newsletter Platform Comparison Template](https://nightcore-pro.org/go/newsletter-platform-comparison-template-launch) - A source-safe comparison template for creators building a newsletter platform shortlist without fake rankings, reviews, or unsupported claims.
 ## versus
 
-- [beehiiv vs Systeme.io for creators](https://nightcore-pro.org/go/beehiiv-vs-systeme-io-for-creators-launch) - Review-only comparison draft clarifying when a creator needs a newsletter-first platform versus an all-in-one funnel stack.
+- [beehiiv vs Systeme.io for creators](https://nightcore-pro.org/go/beehiiv-vs-systeme-io-for-creators-launch) - A decision guide for creators choosing between a newsletter-first publishing path and a broader funnel, course, checkout, and delivery stack.
 
 ## Public feeds
 
