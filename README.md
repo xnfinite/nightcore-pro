@@ -11,7 +11,7 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - [Resource library](https://nightcore-pro.org/resources)
 - [Topic hubs](https://nightcore-pro.org/topics)
 - [Weekly updates](https://nightcore-pro.org/updates)
-- [Latest weekly update](https://nightcore-pro.org/updates/2026-05-12)
+- [Latest weekly update](https://nightcore-pro.org/updates/2026-05-13)
 ## Public feeds
 - [Resources RSS](https://nightcore-pro.org/resources/feed.xml)
 - [Resources JSON](https://nightcore-pro.org/resources/feed.json)
