@@ -19,5 +19,8 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - [Updates JSON](https://nightcore-pro.org/updates/feed.json)
 - [Decision tools JSON](https://nightcore-pro.org/tools/feed.json)
 - [Public syndication JSON](https://nightcore-pro.org/syndication/feed.json)
+- [Newest pages JSON](https://nightcore-pro.org/syndication/newest-pages.json)
+- [Topic hubs JSON](https://nightcore-pro.org/syndication/topics-feed.json)
+- [Best next decision JSON](https://nightcore-pro.org/syndication/best-next-decision.json)
 ## Safety boundary
 These files use canonical Nightcore Pro URLs only. They do not include raw affiliate links, private redirect paths, paid claims, rankings, reviews, testimonials, or performance proof claims.
