@@ -7,11 +7,20 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - `nightcore-pro-tools-index.md` - open tools for choosing a path before choosing software.
 - `nightcore-pro-latest-digest.md` - the current weekly update path and evergreen starting points.
 ## Start on Nightcore Pro
+- [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder)
 - [Decision tools](https://nightcore-pro.org/tools)
 - [Resource library](https://nightcore-pro.org/resources)
+- [Buyer-problem blog](https://nightcore-pro.org/blog)
 - [Topic hubs](https://nightcore-pro.org/topics)
 - [Weekly updates](https://nightcore-pro.org/updates)
 - [Latest weekly update](https://nightcore-pro.org/updates/2026-05-13)
+## Current high-value decision paths
+- [Creator commerce tool path guide](https://nightcore-pro.org/go/creator-commerce-tool-path-guide-launch)
+- [Funnel vs newsletter stack checklist](https://nightcore-pro.org/go/funnel-vs-newsletter-stack-checklist-launch)
+- [Creator newsletter platform setup checklist](https://nightcore-pro.org/go/creator-newsletter-platform-setup-checklist-launch)
+- [Landing page, checkout, and email stack guide](https://nightcore-pro.org/go/landing-page-checkout-email-stack-launch)
+- [Sell a digital download without a storefront](https://nightcore-pro.org/go/sell-digital-download-without-a-storefront-launch)
+- [Sell digital templates with simple checkout](https://nightcore-pro.org/go/sell-digital-templates-with-simple-checkout-launch)
 ## Public feeds
 - [Resources RSS](https://nightcore-pro.org/resources/feed.xml)
 - [Resources JSON](https://nightcore-pro.org/resources/feed.json)
