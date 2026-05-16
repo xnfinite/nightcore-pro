@@ -4,8 +4,10 @@ Nightcore Pro helps creators, small businesses, and online operators choose the 
 
 Start here:
 
+- [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder)
 - [Decision tools](https://nightcore-pro.org/tools)
 - [Resource library](https://nightcore-pro.org/resources)
+- [Buyer-problem blog](https://nightcore-pro.org/blog)
 - [Weekly updates](https://nightcore-pro.org/updates)
 - [Creator commerce topic hub](https://nightcore-pro.org/topics/creator-commerce)
 - [Newsletter tools topic hub](https://nightcore-pro.org/topics/newsletter-tools)
