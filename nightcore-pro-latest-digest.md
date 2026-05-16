@@ -14,7 +14,9 @@ Follow the update feed:
 
 Recent evergreen starting points:
 
+- [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder)
 - [Decision tools](https://nightcore-pro.org/tools)
+- [Buyer-problem blog](https://nightcore-pro.org/blog)
 - [Resources](https://nightcore-pro.org/resources)
 - [Creator commerce](https://nightcore-pro.org/topics/creator-commerce)
 - [Newsletter tools](https://nightcore-pro.org/topics/newsletter-tools)
