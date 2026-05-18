@@ -23,4 +23,5 @@ Recent evergreen starting points:
 - [Funnels](https://nightcore-pro.org/topics/funnels)
 - [Templates](https://nightcore-pro.org/topics/templates)
 - [Digital products](https://nightcore-pro.org/topics/digital-products)
+- [AI tools](https://nightcore-pro.org/topics/ai-tools)
 - [Course selling](https://nightcore-pro.org/topics/course-selling)
