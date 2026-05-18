@@ -14,6 +14,7 @@ Start here:
 - [Funnels topic hub](https://nightcore-pro.org/topics/funnels)
 - [Templates topic hub](https://nightcore-pro.org/topics/templates)
 - [Digital products topic hub](https://nightcore-pro.org/topics/digital-products)
+- [AI tools topic hub](https://nightcore-pro.org/topics/ai-tools)
 - [Course selling topic hub](https://nightcore-pro.org/topics/course-selling)
 
 ## best-for
@@ -41,6 +42,8 @@ Start here:
 - [What Should Be Clear Before You Sell a Template?](https://nightcore-pro.org/go/template-delivery-update-checklist-launch) - A template is checkout-ready when the buyer knows what format they receive, how access works, whether updates are included, and what support is or is not part of the purchase.
 ## use-case
 
+- [AI Automation Tool or Custom Agent: Choose the Workflow Path](https://nightcore-pro.org/go/ai-automation-tool-or-custom-agent-launch) - Decide whether a no-code automation tool, custom AI agent, or manual workflow fits before adding AI infrastructure.
+- [AI Compute for Agent Workflows: When External GPU Infrastructure Fits](https://nightcore-pro.org/go/ai-compute-for-agent-workflows-launch) - Decide when model runs, agent workloads, batch processing, or GPU-backed tasks need external compute instead of a normal app.
 - [Checkout vs Storefront Decision Tool: Pick the Buying Surface](https://nightcore-pro.org/go/checkout-vs-storefront-decision-tool-launch) - A decision tool for choosing whether a product needs simple checkout, owned storefront, marketplace listing, or a broader funnel/course path.
 - [Creator Commerce Readiness Checklist: Decide Buyer, Delivery, and Selling Path](https://nightcore-pro.org/go/creator-commerce-readiness-checklist-launch) - A readiness checklist for deciding whether the buyer, delivery workflow, support load, and selling surface are clear enough to compare creator commerce tools.
 - [Course Platform vs Checkout Tool Guide: Decide Structure Before Payment](https://nightcore-pro.org/go/course-platform-vs-checkout-tool-guide-launch) - A practical guide for deciding whether buyers need structured course delivery, simple checkout, or a larger funnel/course workflow.
@@ -51,8 +54,6 @@ Start here:
 - [Creator Tool Marketplace Map](https://nightcore-pro.org/go/creator-tool-marketplace-map-launch) - A category-first map for creators comparing tool paths before comparing vendors.
 - [Digital Product Platform Checklist: Choose Checkout, Storefront, or Stack](https://nightcore-pro.org/go/digital-product-platform-checklist-launch) - A checklist for deciding whether a digital product needs simple checkout, owned storefront, marketplace discovery, or a broader funnel/course stack.
 - [Creator Stack Glossary](https://nightcore-pro.org/go/creator-stack-glossary-launch) - A plain-language glossary for creators comparing newsletter platforms, email tools, funnels, checkout, courses, and creator stack decisions.
-- [Newsletter Monetization Source Notes](https://nightcore-pro.org/go/newsletter-monetization-source-notes-launch) - A source-safe checklist of what creators should verify before monetizing a newsletter, without earnings promises, fake results, or unsupported claims.
-- [Newsletter Platform Comparison Template](https://nightcore-pro.org/go/newsletter-platform-comparison-template-launch) - A source-safe comparison template for creators building a newsletter platform shortlist without fake rankings, reviews, or unsupported claims.
 ## versus
 
 - [beehiiv vs Systeme.io for creators](https://nightcore-pro.org/go/beehiiv-vs-systeme-io-for-creators-launch) - A decision guide for creators choosing between a newsletter-first publishing path and a broader funnel, course, checkout, and delivery stack.
