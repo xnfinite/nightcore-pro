@@ -19,6 +19,8 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - [Funnel vs newsletter stack checklist](https://nightcore-pro.org/go/funnel-vs-newsletter-stack-checklist-launch)
 - [Creator newsletter platform setup checklist](https://nightcore-pro.org/go/creator-newsletter-platform-setup-checklist-launch)
 - [Landing page, checkout, and email stack guide](https://nightcore-pro.org/go/landing-page-checkout-email-stack-launch)
+- [AI automation tool or custom agent](https://nightcore-pro.org/go/ai-automation-tool-or-custom-agent-launch)
+- [AI compute for agent workflows](https://nightcore-pro.org/go/ai-compute-for-agent-workflows-launch)
 - [Sell a digital download without a storefront](https://nightcore-pro.org/go/sell-digital-download-without-a-storefront-launch)
 - [Sell digital templates with simple checkout](https://nightcore-pro.org/go/sell-digital-templates-with-simple-checkout-launch)
 ## Public feeds
