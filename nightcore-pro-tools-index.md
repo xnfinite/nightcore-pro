@@ -8,6 +8,8 @@ Free public tools for choosing the path before the platform. No account gate, no
 - [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder) - start when newsletter, funnel, product, template, course, and community paths are mixed together.
 - [Creator Commerce Readiness Checklist](https://nightcore-pro.org/go/creator-commerce-readiness-checklist-launch) - check whether the offer is ready before comparing software.
 - [Checkout vs Storefront Decision Tool](https://nightcore-pro.org/go/checkout-vs-storefront-decision-tool-launch) - choose the buying surface before choosing checkout software.
+- [AI Automation Tool or Custom Agent](https://nightcore-pro.org/go/ai-automation-tool-or-custom-agent-launch) - choose automation, agent, or manual workflow before adding AI infrastructure.
+- [AI Compute for Agent Workflows](https://nightcore-pro.org/go/ai-compute-for-agent-workflows-launch) - decide when external compute fits the workload.
 
 ## Related topic hubs
 
@@ -16,4 +18,5 @@ Free public tools for choosing the path before the platform. No account gate, no
 - [Funnels](https://nightcore-pro.org/topics/funnels)
 - [Templates](https://nightcore-pro.org/topics/templates)
 - [Digital products](https://nightcore-pro.org/topics/digital-products)
+- [AI tools](https://nightcore-pro.org/topics/ai-tools)
 - [Course selling](https://nightcore-pro.org/topics/course-selling)
