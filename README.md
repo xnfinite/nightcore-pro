@@ -13,7 +13,7 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - [Buyer-problem blog](https://nightcore-pro.org/blog)
 - [Topic hubs](https://nightcore-pro.org/topics)
 - [Weekly updates](https://nightcore-pro.org/updates)
-- [Latest weekly update](https://nightcore-pro.org/updates/2026-05-13)
+- [Latest weekly update](https://nightcore-pro.org/updates/2026-05-18)
 ## Current high-value decision paths
 - [Creator commerce tool path guide](https://nightcore-pro.org/go/creator-commerce-tool-path-guide-launch)
 - [Funnel vs newsletter stack checklist](https://nightcore-pro.org/go/funnel-vs-newsletter-stack-checklist-launch)
