@@ -6,6 +6,7 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - `nightcore-pro-resource-index.md` - public guides, checklists, templates, and buyer-path resources.
 - `nightcore-pro-tools-index.md` - open tools for choosing a path before choosing software.
 - `nightcore-pro-latest-digest.md` - the current weekly update path and evergreen starting points.
+- `creator-tool-path-map.md` - a practical map for choosing creator-commerce, newsletter, funnel, template, and AI tool paths.
 ## Start on Nightcore Pro
 - [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder)
 - [Decision tools](https://nightcore-pro.org/tools)
