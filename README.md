@@ -7,6 +7,10 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - `nightcore-pro-tools-index.md` - open tools for choosing a path before choosing software.
 - `nightcore-pro-latest-digest.md` - the current weekly update path and evergreen starting points.
 - `creator-tool-path-map.md` - a practical map for choosing creator-commerce, newsletter, funnel, template, and AI tool paths.
+- `digital-product-checkout-checklist.md` - a checklist for choosing simple checkout, storefront, marketplace, or delivery paths.
+- `newsletter-vs-funnel-decision-matrix.md` - a matrix for choosing audience-first publishing versus funnel-first selling.
+- `ai-workflow-decision-map.md` - a map for choosing automation, agent, manual workflow, or compute paths.
+- `template-seller-resource-map.md` - a resource map for template sellers choosing marketplace, checkout, and delivery paths.
 ## Start on Nightcore Pro
 - [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder)
 - [Decision tools](https://nightcore-pro.org/tools)
