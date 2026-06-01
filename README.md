@@ -15,10 +15,10 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder)
 - [Decision tools](https://nightcore-pro.org/tools)
 - [Resource library](https://nightcore-pro.org/resources)
-- [Buyer-problem blog](https://nightcore-pro.org/blog)
-- [Topic hubs](https://nightcore-pro.org/topics)
+- [Creator tool decision blog](https://nightcore-pro.org/blog)
+- [Topic pages](https://nightcore-pro.org/topics)
 - [Weekly updates](https://nightcore-pro.org/updates)
-- [Latest weekly update](https://nightcore-pro.org/updates/2026-05-25)
+- [Latest weekly update](https://nightcore-pro.org/updates/2026-06-01)
 ## Current high-value decision paths
 - [Creator commerce tool path guide](https://nightcore-pro.org/go/creator-commerce-tool-path-guide-launch)
 - [Funnel vs newsletter stack checklist](https://nightcore-pro.org/go/funnel-vs-newsletter-stack-checklist-launch)
@@ -36,7 +36,7 @@ This repository mirrors safe, public Nightcore Pro indexes that are useful for p
 - [Decision tools JSON](https://nightcore-pro.org/tools/feed.json)
 - [Public syndication JSON](https://nightcore-pro.org/syndication/feed.json)
 - [Newest pages JSON](https://nightcore-pro.org/syndication/newest-pages.json)
-- [Topic hubs JSON](https://nightcore-pro.org/syndication/topics-feed.json)
+- [Topic pages JSON](https://nightcore-pro.org/syndication/topics-feed.json)
 - [Best next decision JSON](https://nightcore-pro.org/syndication/best-next-decision.json)
 ## Safety boundary
 These files use canonical Nightcore Pro URLs only. They do not include raw affiliate links, private redirect paths, paid claims, rankings, reviews, testimonials, or performance proof claims.
