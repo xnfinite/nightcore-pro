@@ -29,8 +29,8 @@ A simple checkout path fits when the buyer needs one clear file, a small bundle,
 
 ## Useful Next Paths
 
-- [Digital products topic hub](https://nightcore-pro.org/topics/digital-products)
-- [Templates topic hub](https://nightcore-pro.org/topics/templates)
+- [Digital products topic page](https://nightcore-pro.org/topics/digital-products)
+- [Templates topic page](https://nightcore-pro.org/topics/templates)
 - [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder)
 - [Resources](https://nightcore-pro.org/resources)
 
