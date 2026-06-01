@@ -9,13 +9,13 @@ Start here:
 - [Resource library](https://nightcore-pro.org/resources)
 - [Buyer-problem blog](https://nightcore-pro.org/blog)
 - [Weekly updates](https://nightcore-pro.org/updates)
-- [Creator commerce topic hub](https://nightcore-pro.org/topics/creator-commerce)
-- [Newsletter tools topic hub](https://nightcore-pro.org/topics/newsletter-tools)
-- [Funnels topic hub](https://nightcore-pro.org/topics/funnels)
-- [Templates topic hub](https://nightcore-pro.org/topics/templates)
-- [Digital products topic hub](https://nightcore-pro.org/topics/digital-products)
-- [AI tools topic hub](https://nightcore-pro.org/topics/ai-tools)
-- [Course selling topic hub](https://nightcore-pro.org/topics/course-selling)
+- [Creator commerce topic page](https://nightcore-pro.org/topics/creator-commerce)
+- [Newsletter tools topic page](https://nightcore-pro.org/topics/newsletter-tools)
+- [Funnels topic page](https://nightcore-pro.org/topics/funnels)
+- [Templates topic page](https://nightcore-pro.org/topics/templates)
+- [Digital products topic page](https://nightcore-pro.org/topics/digital-products)
+- [AI tools topic page](https://nightcore-pro.org/topics/ai-tools)
+- [Course selling topic page](https://nightcore-pro.org/topics/course-selling)
 
 ## best-for
 
