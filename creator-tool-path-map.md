@@ -1,6 +1,6 @@
 # Creator Tool Path Map
 
-Use this map when a creator knows they need a system, but the platform choice is still blurry. Start with the buyer problem, then choose the smallest tool path that can support it.
+Use this map when a creator knows they need a system, but the platform choice is still blurry. Start with the buyer need, then choose the smallest tool setup that can support it.
 
 ## Start Here
 
@@ -15,10 +15,10 @@ Use this map when a creator knows they need a system, but the platform choice is
 | "Which creator-commerce path fits my offer?" | [Creator commerce tool path guide](https://nightcore-pro.org/go/creator-commerce-tool-path-guide-launch) | [Creator commerce readiness checklist](https://nightcore-pro.org/go/creator-commerce-readiness-checklist-launch) |
 | "Should this start as a funnel or a newsletter?" | [Funnel vs newsletter stack checklist](https://nightcore-pro.org/go/funnel-vs-newsletter-stack-checklist-launch) | [Landing page, checkout, and email stack guide](https://nightcore-pro.org/go/landing-page-checkout-email-stack-launch) |
 | "Which newsletter setup should I choose?" | [Creator newsletter platform setup checklist](https://nightcore-pro.org/go/creator-newsletter-platform-setup-checklist-launch) | [beehiiv vs Systeme.io for creators](https://nightcore-pro.org/go/beehiiv-vs-systeme-io-for-creators-launch) |
-| "How do I sell templates without overbuilding?" | [Sell digital templates with simple checkout](https://nightcore-pro.org/go/sell-digital-templates-with-simple-checkout-launch) | [Templates topic hub](https://nightcore-pro.org/topics/templates) |
-| "Do I need external AI compute?" | [AI compute for agent workflows](https://nightcore-pro.org/go/ai-compute-for-agent-workflows-launch) | [AI tools topic hub](https://nightcore-pro.org/topics/ai-tools) |
+| "How do I sell templates without overbuilding?" | [Sell digital templates with simple checkout](https://nightcore-pro.org/go/sell-digital-templates-with-simple-checkout-launch) | [Templates topic page](https://nightcore-pro.org/topics/templates) |
+| "Do I need external AI compute?" | [AI compute for agent workflows](https://nightcore-pro.org/go/ai-compute-for-agent-workflows-launch) | [AI tools topic page](https://nightcore-pro.org/topics/ai-tools) |
 
-## Topic Hubs
+## Topic Pages
 
 - [Creator commerce](https://nightcore-pro.org/topics/creator-commerce)
 - [Newsletter tools](https://nightcore-pro.org/topics/newsletter-tools)
