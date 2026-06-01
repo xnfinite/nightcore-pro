@@ -20,12 +20,12 @@ Template sellers should choose the selling path by buyer use, delivery clarity, 
 | Does marketplace discovery fit? | [Template marketplace checklist](https://nightcore-pro.org/go/template-marketplace-checklist-launch) |
 | Is the product a spreadsheet, calculator, or tracker? | [Spreadsheet template checkout checklist](https://nightcore-pro.org/go/spreadsheet-template-checkout-checklist-launch) |
 | Do delivery, updates, and support need more clarity? | [Template delivery update checklist](https://nightcore-pro.org/go/template-delivery-update-checklist-launch) |
-| Is this really a broader digital product decision? | [Digital products topic hub](https://nightcore-pro.org/topics/digital-products) |
+| Is this really a broader digital product decision? | [Digital products topic page](https://nightcore-pro.org/topics/digital-products) |
 
 ## Related Paths
 
-- [Templates topic hub](https://nightcore-pro.org/topics/templates)
-- [Digital products topic hub](https://nightcore-pro.org/topics/digital-products)
+- [Templates topic page](https://nightcore-pro.org/topics/templates)
+- [Digital products topic page](https://nightcore-pro.org/topics/digital-products)
 - [Creator Path Finder](https://nightcore-pro.org/tools/creator-path-finder)
 - [Resources](https://nightcore-pro.org/resources)
 
