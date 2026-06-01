@@ -11,7 +11,7 @@ Free public tools for choosing the path before the platform. No account gate, no
 - [AI Automation Tool or Custom Agent](https://nightcore-pro.org/go/ai-automation-tool-or-custom-agent-launch) - choose automation, agent, or manual workflow before adding AI infrastructure.
 - [AI Compute for Agent Workflows](https://nightcore-pro.org/go/ai-compute-for-agent-workflows-launch) - decide when external compute fits the workload.
 
-## Related topic hubs
+## Related topic pages
 
 - [Creator commerce](https://nightcore-pro.org/topics/creator-commerce)
 - [Newsletter tools](https://nightcore-pro.org/topics/newsletter-tools)
