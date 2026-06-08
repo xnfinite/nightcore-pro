@@ -4,7 +4,7 @@ Use the weekly updates archive to follow new decision tools, buyer-path guides, 
 
 Latest public digest:
 
-- [2026-06-01 weekly update](https://nightcore-pro.org/updates/2026-06-01)
+- [2026-06-08 weekly update](https://nightcore-pro.org/updates/2026-06-08)
 
 Follow the update feed:
 
