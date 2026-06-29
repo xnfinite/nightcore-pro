@@ -56,6 +56,8 @@ Start here:
 - [Creator Stack Glossary](https://nightcore-pro.org/go/creator-stack-glossary-launch) - A plain-language glossary for creators comparing newsletter platforms, email tools, funnels, checkout, courses, and creator stack decisions.
 ## versus
 
+- [beehiiv vs Substack for Creators](https://nightcore-pro.org/go/beehiiv-vs-substack-for-creators) - Comparison page targeting creators deciding between beehiiv and Substack for newsletter publishing. Content is static in page.tsx.
+- [Payhip vs Gumroad for Digital Products](https://nightcore-pro.org/go/payhip-vs-gumroad-for-digital-products) - Comparison page targeting creators deciding between Payhip and Gumroad for digital product selling. Content is static in page.tsx.
 - [beehiiv vs Systeme.io for creators](https://nightcore-pro.org/go/beehiiv-vs-systeme-io-for-creators-launch) - A decision guide for creators choosing between a newsletter-first publishing path and a broader funnel, course, checkout, and delivery stack.
 
 ## Public feeds
